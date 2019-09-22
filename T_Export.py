@@ -32,8 +32,8 @@ def gettext(list):
         print(msg.id,msg.message)
 
 # Use your own values from my.telegram.org
-api_id = '1098468'
-api_hash = '6cd36151df3e26cc2e4780d38a43536e'
+api_id = 'your api id'
+api_hash = 'enter your api hash here'
 
 # The first parameter is the .session file name (absolute paths allowed)
 
